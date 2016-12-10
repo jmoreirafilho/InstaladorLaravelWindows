@@ -39,6 +39,10 @@ Configuração do Vagrant (com provisionamento em Shell Script) para criar uma m
 		- Mapear o projeto no apache
 		- Resetar o apache
 
-4. Acesse o link ()
+4. Acesse o link [localhost:8080](http://localhost:8080) e verifique se uma tela de apresentação do **Laravel** aparece, caso isso ocorra o **Laravel** foi instalado corretamente na sua máquina.
 
-5. Após o comando `vagrant up` terminar de executar, você poderá acessar a sua maquina através do terminal via ssh, digitando `vagrant ssh`
+5. Você poderá acessar a sua máquina através do terminal via ssh, digitando `vagrant ssh`
+
+6. Você poderá acessar o seu banco através do PHPMyAdmin pelo link [localhost:8080/phpmyadmin](http://localhost:8080/phpmyadmin)
+	- Login: **root**
+	- Senha: **vagrant**
