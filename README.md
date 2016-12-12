@@ -2,7 +2,7 @@
 
 Servidor LAMP (Linux, Apache, MySQL, PHP)
 
-Configuração do Vagrant (com provisionamento em Shell Script) para criar uma máquina virtual (Ubuntu Server 14.04 64 Bits) de desenvolvimento em PHP, com o Laravel Framework instalado.
+Configuração do Vagrant (com provisionamento em Shell Script) para criar uma máquina virtual (Ubuntu Server 16.04 64 Bits) de desenvolvimento em PHP, com o Laravel Framework instalado.
 
 ### Pacotes Inclusos ###
 - PHP 7.0
